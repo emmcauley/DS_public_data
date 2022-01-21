@@ -5,6 +5,6 @@ Projects
 ------
 
 
-| PID        | Dataset           | Description  |
-| :-------------: |:-------------:| :-----:|
-| 01      | MSK MetTropism 2021 <https://www.cbioportal.org/study/summary?id=msk_met_2021> |   EDA, Unsupervised clustering (t-SNE, PCA), Supervised Learning (RandomForest Classifier, Regressor), Model Performance (Precision-Recall Curves, ROC/AUC, ELI5 Permutation) | 
+| PID        | Project |  Dataset           | Description  |
+| :-------------: |:---:| :-------------:| :-----:|
+| 01      | [MSK MetTropism 2021](../tree/main/01_MSK_MetTropism) |  <https://www.cbioportal.org/study/summary?id=msk_met_2021> |   EDA, Unsupervised clustering (t-SNE, PCA), Supervised Learning (RandomForest Classifier, Regressor), Model Performance (Precision-Recall Curves, ROC/AUC, ELI5 Permutation) | 

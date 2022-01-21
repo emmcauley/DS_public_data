@@ -7,4 +7,4 @@ Projects
 
 | PID        | Dataset           | Description  |
 | :-------------: |:-------------:| :-----:|
-| 01      | [MSK MetTropism 2021] |   EDA, Unsupervised clustering (t-SNE, PCA), Supervised Learning (RandomForest Classifier, Regressor), Model Performance and Permutation (Precision-Recall Curves, ROC/AUC) | 
+| 01      | MSK MetTropism 2021 <https://www.cbioportal.org/study/summary?id=msk_met_2021> |   EDA, Unsupervised clustering (t-SNE, PCA), Supervised Learning (RandomForest Classifier, Regressor), Model Performance (Precision-Recall Curves, ROC/AUC, ELI5 Permutation) | 
